@@ -21,3 +21,6 @@ for (int i = 0; i < a; i++)
         newarray[i] = array[i];
     }
 }
+
+PrintArray(array, a);
+PrintArray(newarray, a);
