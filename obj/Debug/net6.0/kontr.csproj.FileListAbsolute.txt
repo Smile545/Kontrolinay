@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\kontr\bin\Debug\net6.0\kontr.exe
+C:\Users\пользователь\Desktop\kontr\bin\Debug\net6.0\kontr.deps.json
+C:\Users\пользователь\Desktop\kontr\bin\Debug\net6.0\kontr.runtimeconfig.json
+C:\Users\пользователь\Desktop\kontr\bin\Debug\net6.0\kontr.dll
+C:\Users\пользователь\Desktop\kontr\bin\Debug\net6.0\kontr.pdb
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\kontr.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\kontr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\kontr.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\kontr.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\kontr.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\kontr.dll
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\refint\kontr.dll
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\kontr.pdb
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\kontr.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\kontr\obj\Debug\net6.0\ref\kontr.dll
